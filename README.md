@@ -27,10 +27,7 @@
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>   
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Auto-3DDC84?logo=androidauto&logoColor=fff&style=for-the-badge" alt="Android Auto Badge">
- </div>
-
-
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge" alt="Android Studio Badge"> </div>
 
 
 [linkedin]: https://www.linkedin.com/in/kaan-kaplan-110a09214/
